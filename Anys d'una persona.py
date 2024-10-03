@@ -1,0 +1,11 @@
+nom1='Joan'
+nom2='Martina'
+nom3='Pau'
+anys1=15
+anys2=20
+anys3=7
+s1=m1//60
+m1=h1//60
+h1=d1//24
+d1=anys1//365
+print(s1)
