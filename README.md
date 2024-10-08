@@ -3,11 +3,11 @@ Hola, aquest és el meu primer repositori. Em servirà per aprendre fer servir e
 
 ##Commands Cheat Sheet
 
-###Primer codi
+##Primer codi
 ```code
 git add
 
-###Segon codi
+##Segon codi
 ```code
 git commit
 ##Tercer codi
