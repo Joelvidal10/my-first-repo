@@ -5,11 +5,11 @@ Hola, aquest és el meu primer repositori. Em servirà per aprendre fer servir e
 
 ### Primer codi per anyadir-ho
 ```code
-git add.
+git add .
 ```
 ### Segon codi
 ```code
-git commit-m
+git commit -m missatge
 ```
 ### Tercer codi
 ```code
