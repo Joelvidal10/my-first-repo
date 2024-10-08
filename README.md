@@ -1,25 +1,25 @@
 # my-first-repo
 Hola, aquest és el meu primer repositori. Em servirà per aprendre fer servir el Github i el Git.
 
-##Commands Cheat Sheet
+## Commands Cheat Sheet
 
-###Primer codi per anyadir-ho
+### Primer codi per anyadir-ho
 ```code
-git add
+git add.
 ```
-###Segon codi
+### Segon codi
 ```code
-git commit
+git commit-m
 ```
-###Tercer codi
+### Tercer codi
 ```code
 git fetch
 ```
-###Quart codi
+### Quart codi
 ```code
 git pull
 ```
-###Cinquè codi
+### Cinquè codi
 ```code
 git push
 ```
